@@ -51,6 +51,7 @@ int main()
     // char a = 'A';
     // printf("%c\n", a); //A
 
+    // // 문자열(여러글자)
     // char str[256];
     // scanf("%s", str, sizeof(str)); //문자열은 '&'안해도됨
     // printf("%s\n", str);
