@@ -91,7 +91,7 @@ int main ()
     printf("%s\n", arr9);
     for (int i=0; i<10; i++)
     {
-        printf("%d\n",arr9[i]);
+        printf("%d\n",arr9[i]); //ASCI코드값으로 출력
     }
 
 
